@@ -1,0 +1,96 @@
+[2021-06-17T12:04:32.691903+00:00] EasyWeChat.DEBUG: >>>>>>>>
+GET /sns/jscode2session?access_token=46_KGmuZtb2dMRPkJifybYDhYQd3IM60jaWFw0OESLNsUKUzPTOXYw0_-1R_ABUodzBwe0lyU0y16oQ5yfK5kamrjJ9N0J95izQiwXkAXp0HK-3Tp_gC4sFPsMrn-8zPzucSMwkaKY3GBe6mi0gVHWdAJAQCR&appid=wx8ca0027caf6da91a&secret=c0ac59b7049a43cd653544be4db796a0&js_code=1232213&grant_type=authorization_code HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/7
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: text/plain
+Date: Thu, 17 Jun 2021 12:04:32 GMT
+Content-Length: 78
+
+{"errcode":40029,"errmsg":"invalid code, hints: [ req_id: BJiCO6yFe-AV4bmA ]"}
+--------
+NULL  
+[2021-06-17T12:30:39.881983+00:00] EasyWeChat.DEBUG: >>>>>>>>
+GET /sns/jscode2session?access_token=46_KGmuZtb2dMRPkJifybYDhYQd3IM60jaWFw0OESLNsUKUzPTOXYw0_-1R_ABUodzBwe0lyU0y16oQ5yfK5kamrjJ9N0J95izQiwXkAXp0HK-3Tp_gC4sFPsMrn-8zPzucSMwkaKY3GBe6mi0gVHWdAJAQCR&appid=wx8ca0027caf6da91a&secret=c0ac59b7049a43cd653544be4db796a0&js_code=0239gKkl2oTse74y6eml2zo7Kr19gKkA&grant_type=authorization_code HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/7
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: text/plain
+Date: Thu, 17 Jun 2021 12:30:39 GMT
+Content-Length: 84
+
+{"session_key":"mJlnojkFAw\/yzNJTc\/5sPQ==","openid":"opB2s5B1Rgm0aG99mc1eXlmIUl2o"}
+--------
+NULL  
+[2021-06-17T12:38:43.314732+00:00] EasyWeChat.DEBUG: >>>>>>>>
+GET /sns/jscode2session?access_token=46_KGmuZtb2dMRPkJifybYDhYQd3IM60jaWFw0OESLNsUKUzPTOXYw0_-1R_ABUodzBwe0lyU0y16oQ5yfK5kamrjJ9N0J95izQiwXkAXp0HK-3Tp_gC4sFPsMrn-8zPzucSMwkaKY3GBe6mi0gVHWdAJAQCR&appid=wx8ca0027caf6da91a&secret=c0ac59b7049a43cd653544be4db796a0&js_code=0239gKkl2oTse74y6eml2zo7Kr19gKkA&grant_type=authorization_code HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/7
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: text/plain
+Date: Thu, 17 Jun 2021 12:38:43 GMT
+Content-Length: 79
+
+{"errcode":40163,"errmsg":"code been used, hints: [ req_id: SJiCbgMre-5oMa9 ]"}
+--------
+NULL  
+[2021-06-17T12:39:12.561126+00:00] EasyWeChat.DEBUG: >>>>>>>>
+GET /sns/jscode2session?access_token=46_KGmuZtb2dMRPkJifybYDhYQd3IM60jaWFw0OESLNsUKUzPTOXYw0_-1R_ABUodzBwe0lyU0y16oQ5yfK5kamrjJ9N0J95izQiwXkAXp0HK-3Tp_gC4sFPsMrn-8zPzucSMwkaKY3GBe6mi0gVHWdAJAQCR&appid=wx8ca0027caf6da91a&secret=c0ac59b7049a43cd653544be4db796a0&js_code=0239gKkl2oTse74y6eml2zo7Kr19gKkA&grant_type=authorization_code HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/7
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: text/plain
+Date: Thu, 17 Jun 2021 12:39:12 GMT
+Content-Length: 80
+
+{"errcode":40163,"errmsg":"code been used, hints: [ req_id: tJiCDbwgE-OLTKga ]"}
+--------
+NULL  
+[2021-06-17T12:39:26.174534+00:00] EasyWeChat.DEBUG: >>>>>>>>
+GET /sns/jscode2session?access_token=46_KGmuZtb2dMRPkJifybYDhYQd3IM60jaWFw0OESLNsUKUzPTOXYw0_-1R_ABUodzBwe0lyU0y16oQ5yfK5kamrjJ9N0J95izQiwXkAXp0HK-3Tp_gC4sFPsMrn-8zPzucSMwkaKY3GBe6mi0gVHWdAJAQCR&appid=wx8ca0027caf6da91a&secret=c0ac59b7049a43cd653544be4db796a0&js_code=0239gKkl2oTse74y6eml2zo7Kr19gKkA&grant_type=authorization_code HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/7
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: text/plain
+Date: Thu, 17 Jun 2021 12:39:26 GMT
+Content-Length: 80
+
+{"errcode":40163,"errmsg":"code been used, hints: [ req_id: tJiC8Kqge-1tYmFA ]"}
+--------
+NULL  
+[2021-06-17T12:40:00.321379+00:00] EasyWeChat.DEBUG: >>>>>>>>
+GET /sns/jscode2session?access_token=46_KGmuZtb2dMRPkJifybYDhYQd3IM60jaWFw0OESLNsUKUzPTOXYw0_-1R_ABUodzBwe0lyU0y16oQ5yfK5kamrjJ9N0J95izQiwXkAXp0HK-3Tp_gC4sFPsMrn-8zPzucSMwkaKY3GBe6mi0gVHWdAJAQCR&appid=wx8ca0027caf6da91a&secret=c0ac59b7049a43cd653544be4db796a0&js_code=033eyrFa1cpxeB0rISFa1apAZD3eyrFO&grant_type=authorization_code HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/7
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: text/plain
+Date: Thu, 17 Jun 2021 12:40:00 GMT
+Content-Length: 82
+
+{"session_key":"igOKsTD5oGtBpV3shI5VGA==","openid":"opB2s5B1Rgm0aG99mc1eXlmIUl2o"}
+--------
+NULL  
